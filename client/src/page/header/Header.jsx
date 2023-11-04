@@ -23,9 +23,7 @@ function Header(props) {
                 <h1 className="gradient__text">
                     Let's Build Something amazing with ICREATE
                 </h1>
-                <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing.
-                    Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow
-                    asked of.</p>
+                <p>AI-Powered Images: Where Imagination Becomes Reality. Modern text-to-image systems have a tendency to ignore words or descriptions, forcing users to learn prompt engineering. Icreate represents a leap forward in our ability to generate images that exactly adhere to the text you provide. <br />Icreate is an independent platform exploring new mediums of thought and expanding the imaginative powers of the human species.</p>
                 <div className="gpt3__header-content__input">
                 <button className="register-button" onClick={()=>navigate('/create')}>
                                 <span> Get Started </span>
